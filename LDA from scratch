@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 17 01:03:15 2020
-
-@author: kevin
+Created on Thu Aug 20
+author: lilif
 """
 #%%
 import scipy as sp
